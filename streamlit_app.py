@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Heart Attack Indonesia EDA & Prediction")
+st.title("Heart Attack Indonesia EDA & Prediction.")
 
 import plotly.express as px
 #common
